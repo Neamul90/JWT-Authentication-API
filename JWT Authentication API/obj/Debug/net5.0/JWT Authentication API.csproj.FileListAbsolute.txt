@@ -1,0 +1,66 @@
+D:\Test Project\JWT Authentication API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.csproj.AssemblyReference.cache
+D:\Test Project\JWT Authentication API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Project\JWT Authentication API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.AssemblyInfoInputs.cache
+D:\Test Project\JWT Authentication API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.AssemblyInfo.cs
+D:\Test Project\JWT Authentication API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.csproj.CoreCompileInputs.cache
+D:\Test Project\JWT Authentication API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.MvcApplicationPartsAssemblyInfo.cs
+D:\Test Project\JWT Authentication API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.MvcApplicationPartsAssemblyInfo.cache
+D:\Test Project\JWT Authentication API\JWT Authentication API\bin\Debug\net5.0\appsettings.Development.json
+D:\Test Project\JWT Authentication API\JWT Authentication API\bin\Debug\net5.0\appsettings.json
+D:\Test Project\JWT Authentication API\JWT Authentication API\bin\Debug\net5.0\JWT Authentication API.exe
+D:\Test Project\JWT Authentication API\JWT Authentication API\bin\Debug\net5.0\JWT Authentication API.deps.json
+D:\Test Project\JWT Authentication API\JWT Authentication API\bin\Debug\net5.0\JWT Authentication API.runtimeconfig.json
+D:\Test Project\JWT Authentication API\JWT Authentication API\bin\Debug\net5.0\JWT Authentication API.runtimeconfig.dev.json
+D:\Test Project\JWT Authentication API\JWT Authentication API\bin\Debug\net5.0\JWT Authentication API.dll
+D:\Test Project\JWT Authentication API\JWT Authentication API\bin\Debug\net5.0\JWT Authentication API.pdb
+D:\Test Project\JWT Authentication API\JWT Authentication API\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Test Project\JWT Authentication API\JWT Authentication API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Test Project\JWT Authentication API\JWT Authentication API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Test Project\JWT Authentication API\JWT Authentication API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Test Project\JWT Authentication API\JWT Authentication API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Test Project\JWT Authentication API\JWT Authentication API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Test Project\JWT Authentication API\JWT Authentication API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Test Project\JWT Authentication API\JWT Authentication API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Test Project\JWT Authentication API\JWT Authentication API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Test Project\JWT Authentication API\JWT Authentication API\obj\Debug\net5.0\scopedcss\bundle\JWT Authentication API.styles.css
+D:\Test Project\JWT Authentication API\JWT Authentication API\obj\Debug\net5.0\staticwebassets\JWT Authentication API.StaticWebAssets.Manifest.cache
+D:\Test Project\JWT Authentication API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.RazorTargetAssemblyInfo.cache
+D:\Test Project\JWT Authentication API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.csproj.CopyComplete
+D:\Test Project\JWT Authentication API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.dll
+D:\Test Project\JWT Authentication API\JWT Authentication API\obj\Debug\net5.0\refint\JWT Authentication API.dll
+D:\Test Project\JWT Authentication API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.pdb
+D:\Test Project\JWT Authentication API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.genruntimeconfig.cache
+D:\Test Project\JWT Authentication API\JWT Authentication API\obj\Debug\net5.0\ref\JWT Authentication API.dll
+D:\Personal\JWT-Authentication-API\JWT Authentication API\bin\Debug\net5.0\appsettings.Development.json
+D:\Personal\JWT-Authentication-API\JWT Authentication API\bin\Debug\net5.0\appsettings.json
+D:\Personal\JWT-Authentication-API\JWT Authentication API\bin\Debug\net5.0\JWT Authentication API.exe
+D:\Personal\JWT-Authentication-API\JWT Authentication API\bin\Debug\net5.0\JWT Authentication API.deps.json
+D:\Personal\JWT-Authentication-API\JWT Authentication API\bin\Debug\net5.0\JWT Authentication API.runtimeconfig.json
+D:\Personal\JWT-Authentication-API\JWT Authentication API\bin\Debug\net5.0\JWT Authentication API.runtimeconfig.dev.json
+D:\Personal\JWT-Authentication-API\JWT Authentication API\bin\Debug\net5.0\JWT Authentication API.dll
+D:\Personal\JWT-Authentication-API\JWT Authentication API\bin\Debug\net5.0\JWT Authentication API.pdb
+D:\Personal\JWT-Authentication-API\JWT Authentication API\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Personal\JWT-Authentication-API\JWT Authentication API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal\JWT-Authentication-API\JWT Authentication API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal\JWT-Authentication-API\JWT Authentication API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal\JWT-Authentication-API\JWT Authentication API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Personal\JWT-Authentication-API\JWT Authentication API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal\JWT-Authentication-API\JWT Authentication API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal\JWT-Authentication-API\JWT Authentication API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal\JWT-Authentication-API\JWT Authentication API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal\JWT-Authentication-API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.csproj.AssemblyReference.cache
+D:\Personal\JWT-Authentication-API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\JWT-Authentication-API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.AssemblyInfoInputs.cache
+D:\Personal\JWT-Authentication-API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.AssemblyInfo.cs
+D:\Personal\JWT-Authentication-API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.csproj.CoreCompileInputs.cache
+D:\Personal\JWT-Authentication-API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal\JWT-Authentication-API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal\JWT-Authentication-API\JWT Authentication API\obj\Debug\net5.0\scopedcss\bundle\JWT Authentication API.styles.css
+D:\Personal\JWT-Authentication-API\JWT Authentication API\obj\Debug\net5.0\staticwebassets\JWT Authentication API.StaticWebAssets.Manifest.cache
+D:\Personal\JWT-Authentication-API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.RazorTargetAssemblyInfo.cache
+D:\Personal\JWT-Authentication-API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.csproj.CopyComplete
+D:\Personal\JWT-Authentication-API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.dll
+D:\Personal\JWT-Authentication-API\JWT Authentication API\obj\Debug\net5.0\refint\JWT Authentication API.dll
+D:\Personal\JWT-Authentication-API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.pdb
+D:\Personal\JWT-Authentication-API\JWT Authentication API\obj\Debug\net5.0\JWT Authentication API.genruntimeconfig.cache
+D:\Personal\JWT-Authentication-API\JWT Authentication API\obj\Debug\net5.0\ref\JWT Authentication API.dll

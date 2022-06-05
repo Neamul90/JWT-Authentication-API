@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\neamu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\neamu\\.nuget\\packages"
+    ]
+  }
+}
